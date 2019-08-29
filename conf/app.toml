@@ -4,7 +4,7 @@ title = "App Config"
 name = "craze lee"
 
 [http]
-addr = ":9999"
+addr = ":8080"
 
 [log]
 path = "log/taibai.log"
